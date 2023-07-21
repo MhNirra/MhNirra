@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matias / Mhnirra</h1>
+<h1 align="center">Hi 👋, I'm Matias / MhNirra</h1>
 <h3 align="center">A civil engineering student in computer science from chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhnirra&label=Profile%20views&color=0e75b6&style=flat" alt="mhnirra" /> </p>
